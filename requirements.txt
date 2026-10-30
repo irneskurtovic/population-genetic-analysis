@@ -1,0 +1,5 @@
+scikit-allel
+pandas
+numpy
+matplotlib
+scikit-learn
